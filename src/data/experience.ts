@@ -7,7 +7,7 @@ export const experience: Experience[] = [
     role: "Full Stack Developer Intern",
     period: "Nov 2025 – Feb 2026",
     location: "Remote",
-    website: "https://ituxsolutions.in",
+    website: "https://ituxsolutions.com",
     highlights: [
       "Built and enhanced 5+ backend APIs for a production e-commerce pricing system supporting checkout workflows",
       "Implemented dynamic cart price calculation logic based on business rules and user location to ensure accurate order totals across regions",

@@ -1,29 +1,28 @@
 import { PersonalInfo } from "~/types/data";
 
 export const personalInfo: PersonalInfo = {
-  name: "Abhay Rana",
+  name: "Pranav Kharote",
   title: "Full Stack Developer",
-  tagline: "Building exceptional digital experiences with modern web technologies",
-  bio: "I'm a passionate full-stack developer with expertise in building scalable web applications. I specialize in React, Next.js, and Node.js ecosystems, delivering clean code and exceptional user experiences. With a keen eye for detail and a love for elegant solutions, I transform complex problems into simple, beautiful, and intuitive designs.",
-  email: "hi@abhayrana.com",
+  tagline: "Building practical, Backend-focused web applications",
+
+  bio: "I'm a computer science student and aspiring software engineer focused on building real-world, problem-driven web applications. I’ve developed projects like SmartPrep, an interview preparation and coding practice platform, and ResumeLens, an AI-powered resume analyzer. I enjoy working with React, Node.js, and modern backend systems, and I’m continuously improving my DSA, system design, and production-level development skills.",
+
+  email: "pranavkharote2005@gmail.com", // update if different
   location: "India",
+
   profileImage: "/profile.jpg",
   resumeUrl: "/resume.pdf",
+
   socials: [
     {
       platform: "GitHub",
-      url: "https://github.com/abhay-rana",
+      url: "https://github.com/pranavkharote",
       icon: "github",
     },
     {
       platform: "LinkedIn",
-      url: "https://www.linkedin.com/in/abhay-rana-0x/",
+      url: "https://www.linkedin.com/in/pranavkharote",
       icon: "linkedin",
-    },
-    {
-      platform: "Twitter",
-      url: "https://x.com/Ranaji_0x",
-      icon: "twitter",
     },
   ],
 };

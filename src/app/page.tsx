@@ -20,8 +20,8 @@ export default function Home() {
       <Projects />
       <TechStack />
       <Experience />
-      <Blog posts={getLatestPosts(4)} />
-      <Testimonials />
+      {/* <Blog posts={getLatestPosts(4)} />
+      <Testimonials /> */}
       <ResumeCTA />
       <Contact />
     </>

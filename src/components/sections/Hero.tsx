@@ -62,9 +62,9 @@ export function Hero() {
           variants={fadeInUp}
           className="mt-6 text-xl sm:text-2xl text-[#a1a1aa] leading-relaxed"
         >
-          I build and craft digital experiences{" "}
+          I build web applications{" "}
           <br className="hidden sm:block" />
-          that deliver{" "}
+        focused on clean{" "}
           <span
             className="font-serif italic"
             style={{
@@ -73,7 +73,7 @@ export function Hero() {
               WebkitTextFillColor: "transparent",
             }}
           >
-            real impact
+           backend logic.
           </span>
         </motion.p>
 
